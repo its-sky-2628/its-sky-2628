@@ -69,7 +69,7 @@ A full-stack social sharing platform built using the MERN stack.
 
 [🔗 Live Demo](https://shreyansh-nmoy.onrender.com/)
 
-[📂 GitHub Repository](https://github.com/its-sky-2628)
+[📂 GitHub Repository](https://github.com/its-sky-2628/ExperienceHub)
 
 ---
 
@@ -81,7 +81,7 @@ My personal portfolio website showcasing my projects, skills and experience.
 
 [🔗 Live Demo](https://shreyansh-nmoy.onrender.com/)
 
-[📂 GitHub Repository](https://github.com/its-sky-2628)
+[📂 GitHub Repository](https://github.com/its-sky-2628/portfolio)
 
 ---
 
