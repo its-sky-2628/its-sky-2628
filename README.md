@@ -1,39 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shreyansh%20Yadav&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Data%20Science&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Real-World+MERN+Applications;Python+%26+Data+Science+Enthusiast;Problem+Solver+%7C+DSA+Practitioner;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/its-sky-2628">
-<img src="https://img.shields.io/badge/GitHub-its--sky--2628-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=its-sky-2628&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```yaml
 Name: Shreyansh Yadav
 Role: Full-Stack Developer
+
 Interests:
   - Web Development
   - Data Science
@@ -44,7 +14,7 @@ Interests:
 Currently Working On:
   - Full-Stack MERN Applications
   - Data-Driven Projects
-  - DSA & Competitive Programming
+  - DSA & Problem Solving
 
 Goal:
   Build scalable, useful and production-ready software.
@@ -52,13 +22,13 @@ Goal:
 
 I'm a developer who enjoys turning ideas into **real-world applications**.
 
-I like working across the stack — from designing responsive interfaces to building APIs, databases and data-driven systems.
+I like working across the stack — from building responsive interfaces and REST APIs to working with databases and data-driven systems.
 
 * 🚀 Building full-stack applications
-* 🧠 Improving DSA & problem-solving skills
+* 🧠 Strengthening DSA & problem-solving skills
 * 🤖 Exploring AI/ML and Data Science
 * 🌐 Learning scalable backend architecture
-* 📚 Continuously learning new technologies
+* 📚 Continuously learning and experimenting
 
 ---
 
@@ -66,71 +36,74 @@ I like working across the stack — from designing responsive interfaces to buil
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,sql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp" height="48"/>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+</p>
+
+---
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" height="48"/>
 </p>
+
+---
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48"/>
 </p>
 
-### 🗄️ Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="48"/>
 </p>
 
-### 📊 Data Science & ML
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="30"/>
 </p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+</p>
 
-### 🔧 Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/its-sky-2628">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-sky-2628&repo=ExperienceHub&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/its-sky-2628">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-sky-2628&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 ### 🌟 ExperienceHub
 
-A full-stack application focused on creating an interactive platform for users to share and explore experiences.
+> A full-stack application designed to help users share and explore experiences through an interactive platform.
 
-**Built With**
+**Tech Stack**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
-**Key Features**
+**Highlights**
 
 * 🔐 Authentication & authorization
 * 👤 User profiles
@@ -140,39 +113,45 @@ A full-stack application focused on creating an interactive platform for users t
 * 📱 Responsive UI
 * ⚡ REST API architecture
 
+**[View Repository →](https://github.com/its-sky-2628/ExperienceHub)**
+
 ---
 
 ### 💼 Developer Portfolio
 
-A personal portfolio website showcasing my projects, skills and development journey.
+> A personal portfolio website showcasing my projects, technical skills and development journey.
 
-**Built With**
+**Tech Stack**
 
 `React` `JavaScript` `Vite` `CSS`
 
-**Focus**
+**Highlights**
 
-* Modern UI
-* Responsive design
-* Project showcase
-* Developer-focused experience
+* 🎨 Modern responsive UI
+* 📱 Mobile-friendly design
+* 🚀 Project showcase
+* ⚡ Fast Vite development environment
+
+**[View Repository →](https://github.com/its-sky-2628/portfolio)**
 
 ---
 
 ### 💰 Expense Tracker
 
-A Python-based application designed to track and analyze expenses.
+> A Python-based application for tracking and analyzing personal expenses.
 
-**Built With**
+**Tech Stack**
 
 `Python` `Data Analysis`
 
-**Features**
+**Highlights**
 
 * 💵 Expense tracking
 * 📊 Data analysis
 * 📈 Expense insights
 * 🗂️ Organized data management
+
+**[View Repository →](https://github.com/its-sky-2628/Expense-Tracker)**
 
 ---
 
@@ -180,9 +159,9 @@ A Python-based application designed to track and analyze expenses.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-sky-2628&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=its-sky-2628&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/>
 
-<img src="https://streak-stats.demolab.com?user=its-sky-2628&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=its-sky-2628&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
@@ -190,7 +169,7 @@ A Python-based application designed to track and analyze expenses.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sky-2628&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sky-2628&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
@@ -205,16 +184,17 @@ A Python-based application designed to track and analyze expenses.
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/its-sky-2628/its-sky-2628/output/github-snake-dark.svg"
   />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/its-sky-2628/its-sky-2628/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/its-sky-2628/its-sky-2628/output/github-snake.svg"
-    width="100%"
-  />
-</picture>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/its-sky-2628/its-sky-2628/output/github-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/its-sky-2628/its-sky-2628/output/github-snake.svg"
+ alt="GitHub Contribution Snake"
+ width="100%"
+/> </picture>
 
 </div>
 
@@ -225,71 +205,75 @@ A Python-based application designed to track and analyze expenses.
 <div align="center">
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-Practicing%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+  
+
 <a href="https://github.com/its-sky-2628">
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-3776AB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-3776AB?style=for-the-badge"/>
 </a>
 
 </div>
 
-> 💡 Currently focusing on improving problem-solving skills, algorithms and data structures.
+<br/>
+
+> 🧩 Currently focusing on Data Structures, Algorithms and improving problem-solving skills.
 
 ---
 
 # 📚 Currently Learning
 
-```text
-React Advanced Patterns     ███████████████░░░ 80%
-Backend Development         █████████████░░░░░ 70%
-Data Structures & Algorithms████████████░░░░░░ 70%
-Machine Learning             ██████████░░░░░░░░ 55%
-Cloud & Deployment           ███████░░░░░░░░░░░ 40%
-```
+<div align="center">
 
-* ⚛️ Advanced React
-* 🏗️ Backend architecture
-* 🧠 Data Structures & Algorithms
-* 🤖 Machine Learning
-* ☁️ Cloud & deployment
-* 🔐 API security & authentication
+| Area        | Focus                                        |
+| ----------- | -------------------------------------------- |
+| ⚛️ React    | Advanced patterns & architecture             |
+| ⚙️ Backend  | APIs, authentication & scalable architecture |
+| 🧠 DSA      | Algorithms & problem solving                 |
+| 🤖 AI/ML    | Machine learning fundamentals                |
+| ☁️ Cloud    | Deployment & cloud fundamentals              |
+| 🔐 Security | API & application security                   |
+
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-* [ ] 🚀 Build production-ready full-stack applications
-* [ ] 🧠 Become stronger at DSA
-* [ ] 🤖 Build meaningful AI/ML projects
-* [ ] 🌐 Deploy applications to the cloud
-* [ ] 🤝 Contribute to open source
-* [ ] 📚 Learn system design fundamentals
-* [ ] 💼 Build a strong developer portfolio
+* 🚀 Build production-ready full-stack applications
+* 🧠 Become stronger at DSA & problem solving
+* 🤖 Build meaningful AI/ML projects
+* 🌐 Deploy applications to the cloud
+* 🤝 Contribute to open-source projects
+* 📚 Learn system design fundamentals
+* 💼 Build a strong developer portfolio
 
 ---
 
 # 📈 My Development Journey
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break Things
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-  ↓
-Repeat 🚀
-```
+<div align="center">
+
+**💡 Idea**
+↓
+**🧠 Learn**
+↓
+**💻 Build**
+↓
+**🐛 Debug**
+↓
+**⚡ Improve**
+↓
+**🚀 Deploy**
+↓
+**🔁 Repeat**
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -297,30 +281,32 @@ Repeat 🚀
 <img src="https://img.shields.io/badge/GitHub-its--sky--2628-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-Shreyansh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+ 
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Repeat. 🚀
+### 💻 Code • Build • Learn • Repeat 🚀
 
-⭐ **If you find my projects useful, consider giving them a star!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+⭐ *If you find my projects interesting, consider giving them a star!*
 
 </div>
