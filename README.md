@@ -81,7 +81,7 @@
       <p><b>Tech Stack:</b> React, Node.js, Express.js, MongoDB, Tailwind CSS</p>
       <p>
         <a href="https://github.com/its-sky-2628" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firefox&logoColor=white" /></a>
+        <a href="https://shreyansh-nmoy.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firefox&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -113,7 +113,7 @@
       <p><b>Tech Stack:</b> React.js, JavaScript, Modern CSS</p>
       <p>
         <a href="https://github.com/its-sky-2628" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firefox&logoColor=white" /></a>
+        <a href="https://shreyansh-nmoy.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=firefox&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
